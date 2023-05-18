@@ -1,13 +1,18 @@
-Turlututu Webpage Recreation
+# Turlututu Webpage Recreation 
 This project is a part of the BeCode curriculum and involves recreating the Turlututu webpage.
 
 The main aim of this project is to gain experience and proficiency in recreating CSS design. The recreated page is as close as possible to the original while learning and applying new CSS concepts.
 
-Project Overview
+### Technologies:
+-HTML5
+-CSS3
+
+### Project Overview
 The Turlututu webpage is a simple yet elegant website that showcases great usage of CSS design techniques. The page has been recreated with the best of our abilities and knowledge, highlighting each important feature of the original page.
 
-Original: ![turlututu](https://github.com/Latteflo/be-code/assets/92720989/cb59ca79-e04d-4574-968a-e651a6435f9a)
+Live : https://latteflo.github.io/turlututu/
 
-Technologies
-HTML5
-CSS3
+Original: ![turlututu](https://github.com/Latteflo/turlututu/assets/92720989/efb2aaca-95d1-4b47-9066-08ba296fc342)
+
+
+
