@@ -8,6 +8,9 @@ The main aim of this project is to gain experience and proficiency in recreating
 
 -CSS3
 
+![2023-05-19 08 53 43](https://github.com/Latteflo/turlututu/assets/92720989/4185db90-f549-430a-8ef7-cbf3ef8365e3)
+
+
 ### Project Overview
 The Turlututu webpage is a simple yet elegant website that showcases great usage of CSS design techniques. The page has been recreated with the best of our abilities and knowledge, highlighting each important feature of the original page.
 
