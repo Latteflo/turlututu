@@ -5,10 +5,12 @@ The main aim of this project is to gain experience and proficiency in recreating
 
 ### Technologies:
 -HTML5
+
 -CSS3
 
 ### Project Overview
 The Turlututu webpage is a simple yet elegant website that showcases great usage of CSS design techniques. The page has been recreated with the best of our abilities and knowledge, highlighting each important feature of the original page.
+
 
 Live : https://latteflo.github.io/turlututu/
 
